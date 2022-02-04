@@ -36,4 +36,4 @@ Git remote - v
 
 (Git push origin main) 
 
-_Obrigado_
+_Obrigado pela leitura_
